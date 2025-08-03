@@ -2,6 +2,10 @@
 
 A full-stack MERN application that uses AI to generate personalized workout and diet plans, along with a chat assistant for fitness-related queries.
 
+# Deployment Link
+
+https://ai-fitness-planner-six.vercel.app/
+
 ## Features
 
 - Enter personal data and fitness goals
